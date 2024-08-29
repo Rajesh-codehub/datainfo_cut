@@ -1,0 +1,4 @@
+column_name,count,datatype,nullValues,duplicates
+name,2,object,0,0
+age,2,int64,0,0
+class,2,object,0,0

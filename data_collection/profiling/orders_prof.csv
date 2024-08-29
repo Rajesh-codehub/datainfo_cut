@@ -1,0 +1,8 @@
+column_name,count,datatype,nullValues,duplicates
+First Name,9,object,0,0
+Last Name,9,object,0,0
+Gender,9,object,0,7
+Country,9,object,0,6
+Age,9,int64,0,1
+Date,9,object,0,6
+Id,9,int64,0,0

@@ -1,0 +1,11 @@
+id,name,age,email,city
+1,John Doe,25.0,john@example.com,New York
+2,Jane Smith,,jane@example.com,Chicago
+3,Michael Johnson,35.0,michael@example.com,
+4,Emily Davis,28.0,,Los Angeles
+5,Robert Wilson,42.0,robert@example.com,New York
+6,Sarah Thompson,,sarah@example.com,San Francisco
+7,David Anderson,30.0,david@example.com,Chicago
+8,Jessica Brown,27.0,,
+9,John Doe,25.0,john@example.com,New York
+10,William Taylor,,william@example.com,Seattle

@@ -1,0 +1,6 @@
+column_name,count,datatype,nullValues,duplicates
+id,7,int64,0,0
+name,7,object,0,1
+email,6,object,1,0
+age,5,float64,2,2
+city,6,object,1,1

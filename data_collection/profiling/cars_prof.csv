@@ -1,0 +1,13 @@
+column_name,count,datatype,nullValues,duplicates
+model,32,object,0,0
+mpg,32,float64,0,7
+cyl,32,int64,0,29
+disp,32,float64,0,5
+hp,32,int64,0,10
+drat,32,float64,0,10
+wt,32,float64,0,3
+qsec,32,float64,0,2
+vs,32,int64,0,30
+am,32,int64,0,30
+gear,32,int64,0,29
+carb,32,int64,0,26

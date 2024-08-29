@@ -1,0 +1,7 @@
+input_path,file_format,file_name
+bucket/mock_data.csv,csv,mock_data
+bucket/cars.csv,csv,cars
+bucket/orders.csv,csv,orders
+bucket/users_data.csv,csv,users_data
+data_collection/datafiles/,csv,
+
